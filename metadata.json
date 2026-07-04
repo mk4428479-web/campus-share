@@ -1,0 +1,6 @@
+{
+  "name": "CampusShare",
+  "description": "Premium college marketplace for books, notes, assignments, previous papers, and study gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
